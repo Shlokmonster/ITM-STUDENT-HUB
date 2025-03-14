@@ -35,7 +35,7 @@ function App() {
   };
 
   const socialLinks = {
-    whatsapp: "https://wa.me/your-number",
+    whatsapp: "https://wa.me/7823065134",
     instagram: "https://instagram.com/your-handle",
     youtube: "https://youtube.com/@BachelorsLife03"
   };
