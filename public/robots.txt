@@ -1,36 +1,38 @@
-User-agent: *
-Sitemap:
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://itm-student-hub-shlokkadam46-gmailcoms-projects.vercel.app/</loc>
-        <lastmod>2025-03-15</lastmod>
-        <changefreq>daily</changefreq>
+        <loc>https://itmcollege.netlify.app/</loc>
+        <lastmod>2024-03-15</lastmod>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://itm-student-hub-shlokkadam46-gmailcoms-projects.vercel.app/admissions</loc>
-        <lastmod>2025-03-15</lastmod>
-        <changefreq>weekly</changefreq>
+        <loc>https://itmcollege.netlify.app/about</loc>
+        <lastmod>2024-03-15</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://itm-student-hub-shlokkadam46-gmailcoms-projects.vercel.app/courses</loc>
-        <lastmod>2025-03-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://itmcollege.netlify.app/courses</loc>
+        <lastmod>2024-03-15</lastmod>
+        <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://itm-student-hub-shlokkadam46-gmailcoms-projects.vercel.app/placements</loc>
-        <lastmod>2025-03-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://itmcollege.netlify.app/admissions</loc>
+        <lastmod>2024-03-15</lastmod>
+        <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://itm-student-hub-shlokkadam46-gmailcoms-projects.vercel.app/blog</loc>
-        <lastmod>2025-03-15</lastmod>
-        <changefreq>weekly</changefreq>
+        <loc>https://itmcollege.netlify.app/placements</loc>
+        <lastmod>2024-03-15</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://itmcollege.netlify.app/contact</loc>
+        <lastmod>2024-03-15</lastmod>
         <priority>0.7</priority>
     </url>
+    <url>
+        <loc>https://itmcollege.netlify.app/blog</loc>
+        <lastmod>2024-03-15</lastmod>
+        <priority>0.6</priority>
+    </url>
 </urlset>
-
