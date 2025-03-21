@@ -36,7 +36,7 @@ function App() {
 
   const socialLinks = {
     whatsapp: "https://wa.me/7823065134",
-    instagram: "https://instagram.com/your-handle",
+    instagram: "https://www.instagram.com/itm_student_hub?igsh=MW84MzZ2YnVqdGlvdw%3D%3D&utm_source=qr",
     youtube: "https://youtube.com/@BachelorsLife03"
   };
 
@@ -220,14 +220,14 @@ function App() {
             <Phone className="h-6 w-6 text-[#b01c54] flex-shrink-0" />
             <div>
               <h3 className="font-medium">Call Us</h3>
-              <p className="text-gray-600">+91 (555) 123-4567</p>
+              <p className="text-gray-600">+91 7909022034</p>
             </div>
           </div>
           <div className="flex items-center space-x-4">
             <Mail className="h-6 w-6 text-[#b01c54] flex-shrink-0" />
             <div>
               <h3 className="font-medium">Email Us</h3>
-              <p className="text-gray-600">info@itmhub-unofficial.com</p>
+              <p className="text-gray-600">itmstudentshub@gmail.com</p>
             </div>
           </div>
           <div className="flex items-center space-x-4">
